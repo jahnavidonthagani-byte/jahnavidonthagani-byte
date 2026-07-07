@@ -46,9 +46,6 @@
   *Full Stack MERN Task Tracker Application featuring role-based access control (Admin/Member), project management, task assignment, dashboard analytics, and JWT authentication.*  
   `MongoDB` | `Express.js` | `React.js` | `Node.js` | `Authentication`
 
-* **💼 [placement-management-system-java](https://github.com/jahnavidonthagani-byte/placement-management-system-java)**  
-  *A console-based Placement Management System built using Java, JDBC, and MySQL. Implements core OOPs design principles allowing companies to manage job openings and students to apply seamlessly.*  
-  `Java` | `JDBC` | `MySQL` | `OOPs`
 
 * **✅ [task-tracker-mern](https://github.com/jahnavidonthagani-byte/task-tracker-mern)**  
   *MERN stack task tracker with full add, update, delete, and complete functionality powered by React Vite and Express.*  
